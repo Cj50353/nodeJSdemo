@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/expressServer/app.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/node_modules/mongojs/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node_modules/mongojs/node_modules/mongodb/node_modules/es6-promise/lib/es6-promise/promise.js" charset="UTF-8" />
   </component>
 </project>
